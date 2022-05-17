@@ -4,3 +4,9 @@
 
 ## Exercises with functions in PYTHON
     Activities carried out with the aim of practicing and exercising knowledge and programming logic
+    
+    Files:
+    => automatic cashier
+    => bill calculator
+    => debt calculator
+    => tax calculator
